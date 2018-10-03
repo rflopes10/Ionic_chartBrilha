@@ -1,0 +1,7 @@
+{
+  "name": "graficos-Trab",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
